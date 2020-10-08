@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm founder of KryptoGO. Here is my [LinkedIn profile](https://www.linkedin.com/in/kordanou/)
 
 <!--
 **hitripod/hitripod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
